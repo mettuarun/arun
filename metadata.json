@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Arun AI Cinematic",
+  "description": "Professional-grade realistic image generation and editing suite powered by Gemini 3 Pro Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
